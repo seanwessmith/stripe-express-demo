@@ -1,2 +1,4 @@
-# stripe-express-demo
-Stripe Express Demo
+Stripe Express demo
+
+Backend Node.js Server
+Frontend React 
